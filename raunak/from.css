@@ -1,0 +1,17 @@
+body
+{
+    background: linear-gradient(to right,#91dff2,#23a3c2); 
+    /* background: linear-gradient(to right,violet,indigo,blue,green,yellow,red); */
+}
+
+table
+{
+    border:2px solid rgb(12, 163, 233);
+} 
+
+th,td
+{
+    border:1px solid black;
+    padding: 10px;
+}
+
